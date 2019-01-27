@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development env run
 
 ```
 docker-compose up -d
-mvn clean package && java -jar ./target/elasticsearch-0.0.1-SNAPSHOT.jar
+mvn clean package && java -jar ./target/springboot-logs-to-elk-0.0.1-SNAPSHOT.jar
 ```
 
 To see the logs visit [Kibana](http://localhost:5601) and configure index patterns
@@ -59,4 +59,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the cd ta - see the [LICENSE.md](LICENSE.md) file for details
