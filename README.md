@@ -49,13 +49,13 @@ Add additional notes about how to deploy this on a live system
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/vitorvezani/springboot-logs-to-elk/tags). 
 
 ## Authors
 
-* **Vitor Vezani** - *Initial work* - [github](https://github.com/vvezani)
+* **Vitor Vezani** - *Initial work* - [github](https://github.com/vitorvezani)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/vitorvezani/springboot-logs-to-elk/contributors) who participated in this project.
 
 ## License
 
