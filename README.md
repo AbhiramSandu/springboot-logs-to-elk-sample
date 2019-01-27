@@ -34,7 +34,7 @@ Check the logs in the Discover tab
 ## Running the tests
 
 ```
-mvn clean tests
+mvn clean test
 ```
 
 ## Deployment
