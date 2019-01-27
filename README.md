@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development env run
 
 ```
 docker-compose up -d
-mvn clean package && java -jar ./target/springboot-logs-to-elk-0.0.1-SNAPSHOT.jar
+mvn clean package && java -jar ./target/*.jar
 ```
 
 To see the logs visit [Kibana](http://localhost:5601) and configure index patterns
