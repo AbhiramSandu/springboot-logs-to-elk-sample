@@ -1,4 +1,4 @@
-# Project Title
+# Springboot Logs To ELK Sample
 
 This project is a simple tutorial on how to process SpringBoot logs to ELK stack
 
